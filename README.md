@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khelloufleila
 - 👀 I’m interested in Mathematics, Data Science , Operationnel Recherche 
-- 🌱 I’m currently learning Machine Learning 
-- 💞️ I’m looking to collaborate on different project in Data Science 
+- 🌱 I’m currently Learning Machine Learning 
+- 💞️ I’m looking to collaborate on different projects in Data Science 
 - 📫 How to reach me https://www.linkedin.com/in/leila-khellouf-174704197/ and https://github.com/khelloufleila
 
 <!---

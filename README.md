@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mathematics, Data Science , Operationnel Recherche 
 - 🌱 I’m currently Learning Machine Learning 
 - 💞️ I’m looking to collaborate on different projects in Data Science 
-- 📫 How to reach me https://www.linkedin.com/in/leila-khellouf-174704197/ and https://github.com/khelloufleila
+- 📫 How to reach me https://www.linkedin.com/in/leila-khellouf-174704197/ 
 
 <!---
 khelloufleila/khelloufleila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

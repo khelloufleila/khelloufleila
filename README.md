@@ -33,9 +33,6 @@
 
 ## About Me
 
-👋 Hi, I’m @khelloufleila
-
-About Me
 👉 I'm currently working on ... Image classification with deep learning 
 
 🌱 I'm currently learning ... Data structures and algorithms, Machine learning deployment, Software development, Spark (PySpark), Docker/Kubernetes, GATK/Cromwell, Ubuntu, Huawei cloud, Distributed systems

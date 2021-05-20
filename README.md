@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=teal)
 ![](https://img.shields.io/badge/SQL-informational?style=plastic&logo=MySQL&logoColor=white&color=teal)
 ![](https://img.shields.io/badge/Scala-informational?style=plastic&logo=Scala&logoColor=white&color=teal)
-![](https://img.shields.io/badge/C sharp-informational?style=plastic&logo=HTML5&logoColor=white&color=teal)
+![](https://img.shields.io/badge/C-sharp-informational?style=plastic&logo=HTML5&logoColor=white&color=teal)
 ![](https://img.shields.io/badge/Java-informational?style=plastic&logo=JavaScript&logoColor=white&color=teal)
 
 ### :fire:Databases:fire:

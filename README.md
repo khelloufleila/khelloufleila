@@ -3,12 +3,6 @@
   <img src="https://user-images.githubusercontent.com/45563371/113604647-24a58000-9678-11eb-9bb9-4877d8f1674a.gif" />
 </p>
 
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/denistanjingyu/count.svg" alt="" /></td>
-  </tr>
-</table>
 
 ## Technologies & Tools
 

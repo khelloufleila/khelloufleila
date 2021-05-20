@@ -36,7 +36,7 @@
 
 👉 I'm currently working on ... Image classification with deep learning 
 
-🌱 I'm currently learning ... Data structures and algorithms, Machine learning deployment, Software development, Spark (PySpark), Docker/Kubernetes, GATK/Cromwell, Ubuntu, Huawei cloud, Distributed systems
+🌱 Learning ... Data structures and algorithms, Machine learning deployment, Software development, Spark (PySpark), Docker/Kubernetes, GATK/Cromwell, Ubuntu, Huawei cloud, Distributed systems
 
 💥 I'm interested in ...Mathematics, Operationnel Recherche,  Data science, Machine learning, Data analytics, Artificial intelligence,  Statistics, Research and development
 

@@ -10,6 +10,28 @@
   </tr>
 </table>
 
+## Technologies & Tools
+
+### :fire:Languages:fire:
+![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=teal)
+![](https://img.shields.io/badge/SQL-informational?style=plastic&logo=MySQL&logoColor=white&color=teal)
+![](https://img.shields.io/badge/Scala-informational?style=plastic&logo=Scala&logoColor=white&color=teal)
+![](https://img.shields.io/badge/C#-informational?style=plastic&logo=HTML5&logoColor=white&color=teal)
+![](https://img.shields.io/badge/Java-informational?style=plastic&logo=JavaScript&logoColor=white&color=teal)
+
+### :fire:Databases:fire:
+![](https://img.shields.io/badge/MySQL-informational?style=plastic&logo=MySQL&logoColor=white&color=teal)
+![](https://img.shields.io/badge/MongoDB-informational?style=plastic&logo=MongoDB&logoColor=white&color=teal)
+
+
+### :fire:Editors:fire:
+![](https://img.shields.io/badge/PyCharm-informational?style=plastic&logo=PyCharm&logoColor=white&color=teal)
+![](https://img.shields.io/badge/Spyder-informational?style=plastic&logo=Spyder-IDE&logoColor=white&color=teal)
+![](https://img.shields.io/badge/Visual_Studio-informational?style=plastic&logo=Visual-Studio&logoColor=white&color=teal)
+![](https://img.shields.io/badge/Atom-informational?style=plastic&logo=Atom&logoColor=white&color=teal)
+![](https://img.shields.io/badge/Sublime_Text-informational?style=plastic&logo=Sublime-Text&logoColor=white&color=teal)
+
+## About Me
 
 👋 Hi, I’m @khelloufleila
 

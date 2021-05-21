@@ -23,7 +23,6 @@
 ![](https://img.shields.io/badge/PyCharm-informational?style=plastic&logo=PyCharm&logoColor=white&color=teal)
 ![](https://img.shields.io/badge/Spyder-informational?style=plastic&logo=Spyder-IDE&logoColor=white&color=teal)
 ![](https://img.shields.io/badge/Visual_Studio-informational?style=plastic&logo=Visual-Studio&logoColor=white&color=teal)
-![](https://img.shields.io/badge/Atom-informational?style=plastic&logo=Atom&logoColor=white&color=teal)
 ![](https://img.shields.io/badge/Sublime_Text-informational?style=plastic&logo=Sublime-Text&logoColor=white&color=teal)
 
 ## About Me

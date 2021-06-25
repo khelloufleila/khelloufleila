@@ -27,7 +27,7 @@
 
 ## About Me
 
-👉 I'm currently working on ... Image classification with deep learning 
+👉 I'm currently working on ... VSB Power Line Fault Detection for kaggle competition.  
 
 🌱 Learning ... Data structures and algorithms, Machine learning deployment, Software development, Spark (PySpark), Docker/Kubernetes, GATK/Cromwell, Ubuntu, Huawei cloud, Distributed systems
 
